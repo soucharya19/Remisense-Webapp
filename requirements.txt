@@ -1,0 +1,6 @@
+Flask
+plotly
+numpy
+scikit-learn
+pdfkit
+reportlab
