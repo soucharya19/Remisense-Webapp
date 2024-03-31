@@ -1,6 +1,6 @@
 <div>
   <p align="center">
-    <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/31f4d0de-7e77-4032-9d47-039e1e4180e1" alt="logo" height="90rem" width="90rem">
+    <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/31f4d0de-7e77-4032-9d47-039e1e4180e1" alt="logo" height="100rem" width="100rem">
     
   </p>
   <h1 align="center"> Remisense </h1>
@@ -46,6 +46,10 @@ Develop innovative medical technologies and healthcare applications that improve
 4. **API**: Google Maps API, Razorpay API, 
 5. **Version Control**: Git , Github
 6. **Database**: MySQL, Redis
+
+## 📝 Demo Video Explanation :
+
+https://www.awesomescreenshot.com/video/26299594?key=9a8305450a8920e72374b90c485ea7f3
    
 ## ✨ Features :
 
